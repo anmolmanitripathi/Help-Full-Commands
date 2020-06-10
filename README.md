@@ -1,2 +1,4 @@
-# Help-Full-Commands
-few commands that helped me solve certain issues
+## Enable Bluetooth :
+```console
+sudo /etc/init.d/bluetooth start
+```
