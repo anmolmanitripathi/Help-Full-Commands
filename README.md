@@ -21,3 +21,8 @@ ip addr
 ``` console
 wsl
 ```
+
+## Open Remote KALI using WSL:
+```console
+sudo service xrdp start
+```
