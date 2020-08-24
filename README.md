@@ -27,3 +27,7 @@ wsl
 sudo service xrdp start
 sudo service xrdp status
 ```
+## Check system process:
+```console
+bashtop
+```
