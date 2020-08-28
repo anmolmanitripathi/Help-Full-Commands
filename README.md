@@ -1,6 +1,8 @@
 ## Enable Bluetooth:
 ```console
 sudo /etc/init.d/bluetooth start
+or 
+sudo service bluetooth start
 ```
 
 ## Install a .deb file:
