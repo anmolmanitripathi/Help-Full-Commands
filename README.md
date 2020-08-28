@@ -30,4 +30,6 @@ sudo service xrdp status
 ## Check system process:
 ```console
 bashtop
+or 
+bpytop
 ```
